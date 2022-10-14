@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="flex flex-col justify-between items-center  w-full px-1 py-1"
+  >
+    <div
+      class="px-1 py-1"
+    >
+      Copyright © 2022 Walter Jin
+    </div>
+    <div
+      class="px-1 py-1"
+    >
+      V1.0
+    </div>
+  </div>
+</DocumentFragment>
+`;
